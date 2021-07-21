@@ -1,20 +1,20 @@
 export const robots = [
   {
     id: 1,
-    name: "Andrii Melnyk",
-    username: "Mel",
+    name: "Vasy Petrov",
+    username: "Vas",
     email: "andrii@april.biz",
   },
   {
     id: 2,
-    name: "Kyryll Melnyk",
-    username: "Kir",
+    name: "Pety Slon",
+    username: "Slon",
     email: "kyryll@melissa.tv",
   },
   {
     id: 3,
-    name: "Nikita Melnyk",
-    username: "Nik",
+    name: "Masha Xeq",
+    username: "Qeq",
     email: "nikita@yesenia.net",
   },
   {
